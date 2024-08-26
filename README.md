@@ -1,4 +1,4 @@
-# -AI-Efficient-Light-Coverage
+# AI-Efficient-Light-Coverage
 
 Final Project for the Class Deep Learning.
 Students: Ognjen Obradović, Petar Jović 3rd. 
